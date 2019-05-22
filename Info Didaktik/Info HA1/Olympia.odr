@@ -1,0 +1,25 @@
+<?xml version = "1.0" ?>
+<DOKUMENT Name = "dokument1" Hintergrundfarbe = "Farbe weiß" ObjektdiagrammZusammengefaltet = "falsch" >
+<ELLIPSE Name = "el2" Füllfarbe = "Farbe schwarz" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "7.9375" MitteY = "21.8016666666667" RadiusX = "1.905" RadiusY = "1.77270833333333" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el3" Füllfarbe = "Farbe weiß" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "7.9375" MitteY = "21.7355208333333" RadiusX = "1.37583333333333" RadiusY = "1.36260416666667" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el4" Füllfarbe = "Farbe rot" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "10.9479166666667" MitteY = "21.769375" RadiusX = "1.905" RadiusY = "1.77270833333333" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el5" Füllfarbe = "Farbe weiß" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "11.0008333333333" MitteY = "21.7958333333333" RadiusX = "1.53458333333333" RadiusY = "1.349375" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el6" Füllfarbe = "Farbe blau" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "4.28041666666666" MitteY = "21.8752083333333" RadiusX = "1.905" RadiusY = "1.77270833333333" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el7" Füllfarbe = "Farbe weiß" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "4.28041666666666" MitteY = "21.928125" RadiusX = "1.40229166666667" RadiusY = "1.32291666666667" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el8" Füllfarbe = "Farbe gelb" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "5.735625" MitteY = "18.9647916666667" RadiusX = "1.905" RadiusY = "1.77270833333333" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el9" Füllfarbe = "Farbe grün" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "9.56625" MitteY = "18.7208333333333" RadiusX = "1.905" RadiusY = "1.77270833333333" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el10" Füllfarbe = "Farbe weiß" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "5.72239583333333" MitteY = "18.9383333333333" RadiusX = "1.4684375" RadiusY = "1.32291666666667" Winkel = "0" >
+</ELLIPSE>
+<ELLIPSE Name = "el11" Füllfarbe = "Farbe weiß" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "9.645625" MitteY = "18.6282291666667" RadiusX = "1.42875" RadiusY = "1.3096875" Winkel = "0" >
+</ELLIPSE>
+<KLASSENVERZEICHNIS RECHTECKzähler = "0" ELLIPSEzähler = "12" LINIEzähler = "0" LINIENZUGzähler = "0" VIELECKzähler = "0" PUNKTzähler = "0" GRUPPEzähler = "0" TEXTFELDzähler = "0" >
+</KLASSENVERZEICHNIS>
+</DOKUMENT>

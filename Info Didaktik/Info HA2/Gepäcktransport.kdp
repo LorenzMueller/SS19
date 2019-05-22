@@ -1,0 +1,18 @@
+wiederhole immer
+  wenn IstMarke dann
+    Ton
+    Warten(3000)
+  *wenn
+  wenn IstZiegel dann
+    Schritt
+    sonst
+      Linksdrehen
+      wenn IstZiegel dann
+       Schritt
+     sonst
+     Linksdrehen
+     Linksdrehen
+     Schritt
+    *wenn
+  *wenn
+*wiederhole

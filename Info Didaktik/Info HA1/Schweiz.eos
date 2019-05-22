@@ -1,0 +1,20 @@
+// EOS 1.5 - Programm
+f:FENSTER
+r:RECHTECK
+u:RECHTECK
+z:RECHTECK
+
+f.zeichne(r)
+r.eckenSetzen(-300,200,-20,10)
+
+
+f.zeichne(u)
+u.eckenSetzen(-140,160,-90,20)
+u.füllfarbeSetzen(rot)
+
+f.zeichne(z)
+z.eckenSetzen(-200,110,-35,60)
+z.füllfarbeSetzen(rot)
+
+f.HintergrundfarbeSetzen(rot)
+

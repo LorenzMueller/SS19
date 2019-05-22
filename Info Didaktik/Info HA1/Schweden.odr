@@ -1,0 +1,11 @@
+<?xml version = "1.0" ?>
+<DOKUMENT Name = "dokument1" Hintergrundfarbe = "Farbe weiß" ObjektdiagrammZusammengefaltet = "falsch" >
+<RECHTECK Name = "re0" Füllfarbe = "Farbe hellblau" Linienfarbe = "Farbe schwarz" Linienstärke = "0.01" MitteX = "7.3025" MitteY = "21.9604166666667" Breite = "5.55625" Länge = "10.31875" Winkel = "0" >
+</RECHTECK>
+<RECHTECK Name = "re1" Füllfarbe = "Farbe gelb" Linienfarbe = "Farbe gelb" Linienstärke = "0.01" MitteX = "6.0721875" MitteY = "21.9736458333333" Breite = "5.58270833333334" Länge = "0.873125000000001" Winkel = "0" >
+</RECHTECK>
+<RECHTECK Name = "re2" Füllfarbe = "Farbe gelb" Linienfarbe = "Farbe gelb" Linienstärke = "0.01" MitteX = "7.31572916666667" MitteY = "21.7884375" Breite = "0.926041666666662" Länge = "10.2922916666667" Winkel = "0" >
+</RECHTECK>
+<KLASSENVERZEICHNIS RECHTECKzähler = "3" ELLIPSEzähler = "0" LINIEzähler = "1" LINIENZUGzähler = "0" VIELECKzähler = "0" PUNKTzähler = "0" GRUPPEzähler = "0" TEXTFELDzähler = "0" >
+</KLASSENVERZEICHNIS>
+</DOKUMENT>
